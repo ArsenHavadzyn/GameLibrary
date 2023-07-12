@@ -1,0 +1,459 @@
+================================
+Stalker 2
+GSC Kiyv
+GSC Kiyv
+Xbox, PC
+Action
+2022
+1500 UAH
+================================
+================================
+Halo Infinite
+343 industries
+Xbox Game Studios
+Xbox, PC
+Shooter
+2021
+1550 UAH
+================================
+================================
+Starfield
+Bethesda Soft.
+Xbox Game Studios
+Xbox, PC
+RPG
+2022
+1600 UAH
+================================
+================================
+A Plague Tale 2
+Asobo Studio
+Focus Home Int.
+Xbox, PC
+Action
+2022
+1200 UAH
+================================
+================================
+Hellblade 2
+Ninja Theory
+Xbox Game Studios
+Xbox, PC
+Action
+2023
+1600 UAH
+================================
+================================
+Forza Horizon 5
+Playground Games
+Xbox Game Studios
+Xbox, PC
+Racing
+2021
+1500 UAH
+================================
+================================
+Age of Empires 4
+World's Edge
+Xbox Game Studios
+PC
+Strateg
+2021
+1200 UAH
+================================
+================================
+MLB 2022
+San Diego Studios
+Playstation Studios
+Xbox, PC
+Sport
+2022
+1000 UAH
+================================
+================================
+Battlefield 4
+EA DICE
+Electronic Arts
+Xbox, PC
+Shooter
+2013
+700 UAH
+================================
+================================
+Battlefield 3
+EA DICE
+Electronic Arts	
+Xbox, PC
+Shooter
+2011
+700 UAH
+================================
+================================
+Mirror's Edge
+EA DICE
+Electronic Arts
+Xbox, PC
+Action
+2008
+500 UAH
+================================
+================================
+Mirror's Edge 2
+EA DICE
+Electronic Arts
+Xbox, PC
+Action
+2016
+800 UAH
+================================
+================================
+Sea of Thieves
+Rare Limited
+Xbox Game Studios
+Xbox, PC
+MMO
+2018
+1000 UAH
+================================
+================================
+Minecraft Bedrock
+Mojang Studios
+Xbox Game Studios
+Xbox, PC
+Sandbox
+2011
+500 UAH
+================================
+================================
+Grand Theft Auto V
+Rockstar Games	
+Take-Two Int.
+Xbox
+Action
+2013
+1000 UAH
+================================
+================================
+Diablo IV
+Blizzard Ent.
+Activision Inc.
+Xbox, PC
+Hack-n-Slash
+2023
+1500 UAH
+================================
+================================
+Overwatch 2
+Blizzard Ent.
+Activision Inc.
+Xbox, PC
+Shooter
+2023
+1000 UAH
+================================
+================================
+Diablo III
+Blizzard Ent.
+Activision Inc.
+Xbox, PC
+Hack-n-Slash
+2012
+450 UAH
+================================
+================================
+Diablo Ressurected
+Blizzard Ent.
+Activision Inc.
+Xbox, PC
+Hack-n-Slash
+2021
+1200 UAH
+================================
+================================
+Fallout 3
+Bethesda Soft.
+Zenimax Media
+Xbox, PC
+RPG
+2008
+300 UAH
+================================
+================================
+Fallout 4: GotY
+Bethesda Soft.
+Zenimax Media
+Xbox, PC
+RPG
+2015
+800 UAH
+================================
+================================
+Perfect Dark
+The Initiative
+Xbox Game Studios
+Xbox, PC
+Action
+2023
+1500 UAH
+================================
+================================
+Gachi Heroes
+Loh Soft
+Loh Soft
+PC
+Clicker
+2018
+120 UAH
+================================
+================================
+Sniper Elite 5
+Rebellion Dev.
+Rebellion Dev.
+Xbox, PC
+Shooter
+2022
+1500 UAH
+================================
+================================
+Sniper Elite 4
+Rebellion Dev.
+Rebellion Dev.
+Xbox, PC
+Shooter
+2017
+800 UAH
+================================
+================================
+Tomb Raider
+Crystal Dynamics
+Square Enix
+Xbox, PC
+Action
+2013
+600 UAH
+================================
+================================
+Rise of the TR
+Crystal Dynamics
+Square Enix
+Xbox, PC
+Action
+2015
+700 UAH
+================================
+================================
+Shadow of the TR
+Crystal Dynamics
+Square Enix
+Xbox, PC
+Action
+2019
+1000 UAN
+================================
+================================
+FIFA 2022
+EA Vancoover
+Electronic Arts
+Xbox, PC
+Sport
+2021
+1200 UAH
+================================
+================================
+NBA 2K22
+2K Games
+2K Games
+Xbox, PC
+Sport
+2022
+1100 UAH
+================================
+================================
+NHL 22
+EA Vancoover
+Electronic Arts
+Xbox, PC
+Sport
+2021
+1000 UAH
+================================
+================================
+NFL 22
+EA Tiburon
+Electronic Arts
+Xbox, PC
+Sport
+2021
+800 UAH
+================================
+================================
+Golf with Friends
+BlackLight Int
+Team17 Software
+Xbox, PC
+Sport
+2016
+300 UAH
+================================
+================================
+My Friend Pedro
+Dead Toast Int
+Devolver Digital
+Xbox, PC
+Platformer
+2019
+500 UAH
+================================
+================================
+AC: Valhalla
+Ubisoft
+Ubisoft
+Xbox, PC
+Action-RPG
+2020
+1300 UAH
+================================
+================================
+AC: Odyssey
+Ubisoft
+Ubisoft
+Xbox, PC
+Action-RPG
+2018
+1000 UAH
+================================
+================================
+AC: Origins
+Ubisoft
+Ubisoft
+Xbox, PC
+Action
+2017
+900 UAH
+================================
+================================
+P.U.B.G
+PUBG Team
+Tencent
+Xbox, PC
+Battle-Royale
+2017
+500 UAH
+================================
+================================
+Gears of War
+The Coalition
+Xbox Game Studios
+Xbox, PC
+Shooter
+2007
+400 UAH
+================================
+================================
+Gears of War 2
+The Coalition
+Xbox Game Studios
+Xbox
+Shooter
+2008
+400 UAH
+================================
+================================
+Gears of War 3
+The Coalition
+Xbox Game Studios
+Xbox
+Shooter
+2011
+400 UAH
+================================
+================================
+Gears of War 4
+The Coaltion
+Xbox Game Studios
+Xbox, PC
+Shooter
+2016
+700 UAH
+================================
+================================
+Gears 5
+The Coalition
+Xbox Game Studios
+Xbox, PC
+Shooter
+2019
+1000 UAH
+================================
+================================
+Gears: Tactics
+The Coalition
+Xbox Game Studios
+Xbox, PC
+Tactics
+2020
+800 UAH
+================================
+================================
+Halo 5
+343 industries
+Xbox Game Studios
+Xbox
+Shooter
+2015
+800 UAH
+================================
+================================
+Warcraft 3
+Blizzard Ent.
+Blizzard Ent.
+PC
+Strateg
+2002
+350 UAH
+================================
+================================
+Half-Life
+Valve Soft.
+Valve Soft.
+PC
+Shooter
+1998
+350 UAH
+================================
+================================
+Metro Exodus
+4A Games
+Deep Silver
+Xbox, PC
+Shooter
+2019
+900 UAH
+================================
+================================
+Metro 2033
+4A Games
+Deep Silver
+Xbox, PC
+Shooter
+2010
+550 UAH
+================================
+================================
+Heroes V
+Ubisoft
+Ubisoft
+PC
+Strateg
+2007
+550 UAH
+================================
+================================
+Far Cry 6
+Ubisoft
+Ubisoft
+Xbox, PC
+Shooter
+2021
+1600 UAH
+================================

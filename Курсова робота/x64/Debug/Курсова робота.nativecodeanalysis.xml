@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+      <FILENAME>Categories.h</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>Чтение недопустимых данных из "cNamesList".</DESCRIPTION>
+    <FUNCTION>Category::{ctor}</FUNCTION>
+    <DECORATED>??0Category@@QEAA@XZ</DECORATED>
+    <FUNCLINE>61</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>123</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>124</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>128</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Войти в этот цикл (предполагается "&lt;условие ветви&gt;")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить эту ветвь (предполагается, что "&lt;условие ветви&gt;" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Войти в эту ветвь (предполагается "==(cName, "")")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>76</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"tempCounter" может быть равно 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Продолжить этот цикл (предполагается "&lt;условие ветви&gt;")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить эту ветвь (предполагается, что "&lt;условие ветви&gt;" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Войти в эту ветвь (предполагается "==(cName, "")")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>28</COLUMN>
+        <KEYEVENT>
+          <ID>8</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"tempCounter" является выходными данными из "std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;::=" (объявлено в c:\program files\microsoft visual studio\2022\community\vc\tools\msvc\14.35.32215\include\xstring:3304)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+        <FILENAME>Categories.h</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>28</COLUMN>
+        <KEYEVENT>
+          <ID>9</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Недопустимая операция чтения из "cNamesList[1]" (доступный для чтения диапазон: от 0 до 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+      <FILENAME>login.h</FILENAME>
+      <LINE>300</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Функция использует байты стека "68176".  Рассмотрите возможность перемещения некоторых данных в кучу.</DESCRIPTION>
+    <FUNCTION>User::showActions</FUNCTION>
+    <DECORATED>?showActions@User@@UEAA_NXZ</DECORATED>
+    <FUNCLINE>300</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\azioc\OneDrive\Рабочий стол\програмізм\Cpp\Курсова робота\Курсова робота\</FILEPATH>
+      <FILENAME>login.h</FILENAME>
+      <LINE>493</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Функция использует байты стека "58760".  Рассмотрите возможность перемещения некоторых данных в кучу.</DESCRIPTION>
+    <FUNCTION>Admin::showActions</FUNCTION>
+    <DECORATED>?showActions@Admin@@UEAA_NXZ</DECORATED>
+    <FUNCLINE>493</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

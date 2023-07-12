@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Game::sortType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameMain.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Game::filterType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameMain.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAQAABACALAAAEcgCAEgGQAIQAkAAAAgAAAU=</HashCode>
+      <FileName>GameMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAQAAAAhAAAQBAQAABAQAAAIACEAgCAFAA=</HashCode>
+      <FileName>login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQBAAAhAAAAQAAAAAAQAAAIACAAgAAEAA=</HashCode>
+      <FileName>login.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="leaveSoon">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>LeaveList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomPrice&lt;T&gt;">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAABAAAgAIAQAAAAAAAAAACAAAIIAAAAA=</HashCode>
+      <FileName>GameFunctions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
